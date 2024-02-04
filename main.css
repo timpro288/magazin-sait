@@ -1,0 +1,137 @@
+
+.shapka {
+    width: 100%;
+    height: 10%;
+    background:#fff6cd; 
+    display: flex; 
+    position: fixed;
+}
+
+.logo {
+    width: 80px;
+    background: url(/logo.png);
+    background-size: cover
+}
+
+div {
+    
+}
+
+.shapka-txt {
+    margin-left: 5%;
+    font-size: 20px;
+    margin-top: 4%;
+    
+    
+    
+    
+        
+}
+
+.ssilk-shapka {
+    margin-top: 4.5%;
+    margin-left: 30px;
+    text-decoration: none;
+    color: black;
+    
+    
+}
+.ssilk-shapka:hover{
+  text-decoration: underline  
+}
+
+.s1 {
+
+}
+
+.product {
+    width:300px;
+    height: 300px;
+    margin-bottom: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    
+}
+
+.n1 {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXw1RTsYN8kUsUqaZ8wrC-h1K8Zc7GGD-Yg&usqp=CAU);
+    background-size: cover;
+}
+
+.n2 {
+    background: blue;
+}
+
+.n3 {
+   background: url(https://i.pinimg.com/474x/f4/7f/4d/f47f4d0882d5f9733168d1fb205e9639.jpg); 
+    background-size: cover;
+}
+
+.n4 {
+    background: url(https://raskraska.su/raskraska.ru/azbuka/s-c.gif);
+    background-size: cover;
+}
+
+.n5 {
+    background: url(https://w7.pngwing.com/pngs/421/185/png-transparent-yellow-product-design-pattern-letter-d-rectangle-orange-letter-d-png.png);
+    background-size: cover;
+}
+
+.shop {
+
+}
+
+.prodact {
+      width:200px;
+    height: 200px;
+    margin-bottom: px;
+    margin-left: auto;
+    margin-right: auto
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.opisanie {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.contact {
+  text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.z {
+    color: white;
+    font-size: 30px
+    
+}
+
+a {
+}
+
+.zakaz {
+    font-size: 30px;
+    text-decoration: none;
+    
+}
+
+.zak {
+    text-align: center;
+    margin-bottom: 100px;
+    margin: auto;
+    width: 200px;
+    height: 50px;
+    background: orange;
+    border-radius: 10%;
+    
+}
